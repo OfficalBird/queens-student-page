@@ -1,13 +1,13 @@
 ---
 name: Sherwin Dhaliwal
 about: Structured checklist for reviewing a classmate's Queen’s Student Page
-title: "Peer Review: <Sherwin> reviewing <>"
+title: "Peer Review: <Sherwin> reviewing <Denis>"
 labels: peer-review
 assignees: Denis Rodin ''
 ---
 
 **Live URL:** https://<officalbird>.github.io/queens-student-page/
-**Repo:** https://github.com/<user>/queens-student-page
+**Repo:** https://github.com/OfficalBird/queens-student-page
 
 ### 1) Functionality
 - [Good] Page loads; links & images work.
